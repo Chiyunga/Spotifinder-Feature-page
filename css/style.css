@@ -1,26 +1,26 @@
 @font-face {
     font-family: "Circular Std";
-    src: url(/assets/Circular/CircularStd-Black.otf);
+    src: url(../assets/Circular/CircularStd-Black.otf);
     font-weight: 900;
 }
 @font-face {
     font-family: "Circular Std";
-    src: url(/assets/Circular/CircularStd-Bold.otf);
+    src: url(../assets/Circular/CircularStd-Bold.otf);
     font-weight: 700;
 }
 @font-face {
     font-family: "Circular Std";
-    src: url(/assets/Circular/CircularStd-Medium.otf);
+    src: url(../assets/Circular/CircularStd-Medium.otf);
     font-weight: 500;
 }
 @font-face {
     font-family: "Circular Std";
-    src: url(/assets/Circular/CircularStd-Book.otf);
+    src: url(../assets/Circular/CircularStd-Book.otf);
     font-weight: 450;
 }
 @font-face {
     font-family: "Circular Std";
-    src: url(/assets/Circular/CircularStd-Light.otf);
+    src: url(../assets/Circular/CircularStd-Light.otf);
     font-weight: 300;
 }
 
@@ -162,7 +162,7 @@ body {
     align-items: center;
     width: 1568px;
     height: 428px;
-    background-image: url(/assets/section2bg.png);
+    background-image: url(../assets/section2bg.png);
     position: absolute;
     bottom: -134px;
 }
